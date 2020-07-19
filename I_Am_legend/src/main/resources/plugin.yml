@@ -1,0 +1,5 @@
+name: Iamlegend
+version: ${project.version}
+main: com.badgerbrother.iamlegend.Iamlegend
+api-version: 1.13
+authors: [xxfatai, wangluqiong]
